@@ -14,16 +14,17 @@ namespace KMeansClustering
         private double[][] rawData;
         private static Random rnd;
 
-        public Clusterer()
+        public Clusterer(int numClusters)
         {
             if (numClusters < 2) throw new Exception("You must initialize a new Culsterer with 2 or more cluster counts");
-            
+            this.numClusters = numClusters;
             this.centroids = new double[numClusters][];
 
             if (rnd == null) rnd = new Random(0);
         }
 
-        public Clusterer(double[][] rawData) : this()
+        public Clusterer(double[][] rawData, int numClusters)
+            : this(numClusters)
         {
             this.rawData = rawData;
         }
@@ -35,7 +36,7 @@ namespace KMeansClustering
 
         private bool initRandom(double[][] data, int maxAttempts)
         {
-            
+
             throw new NotImplementedException();
         }
 

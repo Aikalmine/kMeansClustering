@@ -4,3 +4,9 @@ C:\Users\cp647c\documents\visual studio 2013\Projects\KMeansClustering\KMeansClu
 C:\Users\cp647c\documents\visual studio 2013\Projects\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
 C:\Users\cp647c\documents\visual studio 2013\Projects\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.exe
 C:\Users\cp647c\documents\visual studio 2013\Projects\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.pdb
+C:\Users\cp647c\git\kMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+C:\Users\cp647c\git\kMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.exe
+C:\Users\cp647c\git\kMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.pdb
+C:\Users\cp647c\git\kMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+C:\Users\cp647c\git\kMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+C:\Users\cp647c\git\kMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.csprojResolveAssemblyReference.cache
